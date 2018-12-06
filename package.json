@@ -1,0 +1,24 @@
+{
+  "name": "docking",
+  "version": "1.0.0",
+  "description": "docking id web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "http-server": "^0.11.1",
+    "nodemon": "^1.18.7",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "docking",
+    "shipyard",
+    "shipowners"
+  ],
+  "author": "faadilhakim",
+  "license": "ISC"
+}
